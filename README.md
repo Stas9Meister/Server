@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Техника Apple</title>
+    <title>Профильный сервис</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
