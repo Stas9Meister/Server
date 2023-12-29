@@ -28,7 +28,7 @@
         </dev>
     </header>
 
-    <main class="main">
+<main class="main">
         <h3>
             <b>Почему наш профильный автомобильный сервис:</b>
         </h3>
@@ -42,7 +42,7 @@
                 <li><b>Запчасти: </b>Только оригинальные запчасти. Использование только оригинальных запчастей от официальных поставщиков.</li>
                 
 
-        <dev class="image">
+<dev class="image">
             <img src=https://avatars.mds.yandex.net/i?id=c3b48cb8dfeedcecc0c7e3a71d812c1b47b86a35-5246842-images-thumbs&n=13 alt="ДВС" width="200" height="250">
             <img src=https://avatars.mds.yandex.net/i?id=e97a14852b8e1add94e96f9366550df9cff8292d-6961512-images-thumbs&n=13 alt="КПП" width="220" height="250">
             <img src=https://avatars.mds.yandex.net/i?id=c39ed2b370a1c1e535e1ce08839cb5fe7ab4f873-10695130-images-thumbs&n=13 alt="Подвеска" width="240" height="250">
@@ -64,7 +64,7 @@
             <p> </p>
     </main>
 
-    <footer class="footer">
+<footer class="footer">
         <h1>Контакты:</h1>
         <p>
             +7(919)894-74-00<br />
