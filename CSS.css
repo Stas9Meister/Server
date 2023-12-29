@@ -1,0 +1,55 @@
+.header {
+    font-family: SF Pro Display, sans-serif;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.p1 {
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.tec {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.main {
+    font-family: SF Pro Display, sans-serif;
+    background-color:#F8F8F8;
+    display:flex;
+    flex-direction: column;
+}
+
+.image {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text {
+    display: flex;
+    justify-content: space-around;
+}
+
+.image2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer {
+    font-family: SF Pro Display, sans-serif;
+    background-color:#353535;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
