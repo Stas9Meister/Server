@@ -71,6 +71,4 @@
             Startauto@gggmail.com
         </p>
     </footer>
-</body>
 
-</html>
